@@ -1,3 +1,7 @@
+#### Hosted
+
+https://taneli1.github.io/ea_assignment_2/
+
 ## Overview
 
 This repository contains the Blackjack game for a single player. With small changes could support more than one though. 
