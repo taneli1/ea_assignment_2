@@ -1,6 +1,6 @@
 #### Hosted
 
-https://taneli1.github.io/ea_assignment_2/
+https://taneli1.github.io/ea_assignment_/
 
 ## Overview
 

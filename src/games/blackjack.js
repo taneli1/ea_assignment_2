@@ -176,7 +176,7 @@ export class Blackjack extends Game {
     }
 
     // Check who won TODO multiple players
-    const pid = table.players[0]
+    const pid = table.players[0].pid
 
     if (dealerTotal > 21) {
       this.#gameEnd(pid, true)
